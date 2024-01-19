@@ -10,7 +10,7 @@
 ## 💼 Professional Experience: 
 
   * Results Analyst at AXA, focusing in database migration and reconstruction from SAS to Azure Databricks, and reporting using Power BI. 
-  * Experienced in banking, student ambassador roles, and volunteering as an election assessor. 
+
 
 ## 🛠️ Technical Skills: 
 
