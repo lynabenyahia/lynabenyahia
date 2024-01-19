@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I am Lyna BENYAHIA</h1>
-<h3 align="center">A passionate Data Scientist from France</h3>
 
 ## 🎓 About Me:
 
