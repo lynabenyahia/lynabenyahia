@@ -3,13 +3,9 @@
 
 ## 🎓 About Me:
 
-  * Pursuing a Master's degree in Data Science for Economics and Business at the University of Strasbourg. 
-  * Passionate about programming, politics, and cinema (I always welcome movie recommandations!). 
-
-
-## 💼 Professional Experience: 
-
+  * Pursuing a Master's degree in Data Science for Economics and Business at the University of Strasbourg.
   * Results Analyst at AXA, focusing in database migration and reconstruction from SAS to Azure Databricks, and reporting using Power BI. 
+  * Passionate about programming, politics, and cinema (I always welcome movie recommandations!). 
 
 
 ## 🛠️ Technical Skills: 
