@@ -17,6 +17,8 @@
 ### Data Science and Analytics Tools:
 ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=R&color=353535)
+![Spyder](https://img.shields.io/badge/-Spyder-05122A?style=flat-square&logo=R&color=353535)
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat-square&logo=Spark&color=353535)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535)
