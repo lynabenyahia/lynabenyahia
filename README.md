@@ -27,7 +27,6 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat-square&logo=Neo4j&color=353535)
 
 ### Business Intelligence and Automation Tools:
-![SAS](https://img.shields.io/badge/-SAS-05122A?style=flat-square&logo=SAS&color=353535)
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Excel&color=353535)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-05122A?style=flat-square&logo=Power-Query&color=353535)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-05122A?style=flat-square&logo=Power-Automate&color=353535)
@@ -36,7 +35,7 @@
 ### Development Environment and Markup Language:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
-
+![LateX](https://img.shields.io/badge/-LateX-05122A?style=flat-square&logo=LateX&color=353535)
 
 
 <h1 align="center">Feel free to explore my repositories and connect with me!</h1>
